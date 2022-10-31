@@ -1,5 +1,6 @@
 # Redux Essentials Example - Counter App
-![2022-10-30_18h57_18](https://user-images.githubusercontent.com/13697123/198911323-8bfee877-dc98-4051-bb09-782d99d8a48b.png)
+![2022-10-30_19h00_05](https://user-images.githubusercontent.com/13697123/198911518-46087d45-05d2-4fd0-a439-10b05307c9d7.png)
+
 
 ## Overview 
 In [Part 1: Redux Overview and Concepts](https://redux.js.org/tutorials/essentials/part-1-overview-concepts), we looked at how Redux can help us build maintainable apps by giving us a single central place to put global app state. We also talked about core Redux concepts like dispatching action objects, using reducer functions that return new state values, and writing async logic using thunks. 
